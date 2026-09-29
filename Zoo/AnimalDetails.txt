@@ -1,0 +1,8 @@
+Shark,Gur,1,Blue,10.0,5.0
+Eagle,Aquila,4,Brown,12.5,2.1
+Shark,Evil,6,White,1500.0,25.0
+Eagle,Blade,8,Golden,6.0,2.0
+Shark,Bruce,10,Grey,300.0,30.0
+Lion,Queen,10,Red,250.0,4.5
+Lion,King,50,Red,500.0,10.5
+Lion,Bob,2,blue,29.0,343.0
